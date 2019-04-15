@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fagleyali/unit-4-assessment/precache-manifest.59cced6cdafaeecf8e0dfe054cc893cd.js"
+  "/unit-4-assessment/precache-manifest.944ffd030831344fbea9bf3f2139ca5c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/fagleyali/unit-4-assessment/index.html", {
+workbox.routing.registerNavigationRoute("/unit-4-assessment/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

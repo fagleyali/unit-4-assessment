@@ -1,13 +1,13 @@
 {
-  "main.css": "/fagleyali/unit-4-assessment/static/css/main.21866834.chunk.css",
-  "main.js": "/fagleyali/unit-4-assessment/static/js/main.533ef456.chunk.js",
-  "main.js.map": "/fagleyali/unit-4-assessment/static/js/main.533ef456.chunk.js.map",
-  "runtime~main.js": "/fagleyali/unit-4-assessment/static/js/runtime~main.5c6c3940.js",
-  "runtime~main.js.map": "/fagleyali/unit-4-assessment/static/js/runtime~main.5c6c3940.js.map",
-  "static/js/2.65aa1cca.chunk.js": "/fagleyali/unit-4-assessment/static/js/2.65aa1cca.chunk.js",
-  "static/js/2.65aa1cca.chunk.js.map": "/fagleyali/unit-4-assessment/static/js/2.65aa1cca.chunk.js.map",
-  "index.html": "/fagleyali/unit-4-assessment/index.html",
-  "precache-manifest.59cced6cdafaeecf8e0dfe054cc893cd.js": "/fagleyali/unit-4-assessment/precache-manifest.59cced6cdafaeecf8e0dfe054cc893cd.js",
-  "service-worker.js": "/fagleyali/unit-4-assessment/service-worker.js",
-  "static/css/main.21866834.chunk.css.map": "/fagleyali/unit-4-assessment/static/css/main.21866834.chunk.css.map"
+  "main.css": "/unit-4-assessment/static/css/main.21866834.chunk.css",
+  "main.js": "/unit-4-assessment/static/js/main.3048f55c.chunk.js",
+  "main.js.map": "/unit-4-assessment/static/js/main.3048f55c.chunk.js.map",
+  "runtime~main.js": "/unit-4-assessment/static/js/runtime~main.e55f4147.js",
+  "runtime~main.js.map": "/unit-4-assessment/static/js/runtime~main.e55f4147.js.map",
+  "static/js/2.65aa1cca.chunk.js": "/unit-4-assessment/static/js/2.65aa1cca.chunk.js",
+  "static/js/2.65aa1cca.chunk.js.map": "/unit-4-assessment/static/js/2.65aa1cca.chunk.js.map",
+  "index.html": "/unit-4-assessment/index.html",
+  "precache-manifest.944ffd030831344fbea9bf3f2139ca5c.js": "/unit-4-assessment/precache-manifest.944ffd030831344fbea9bf3f2139ca5c.js",
+  "service-worker.js": "/unit-4-assessment/service-worker.js",
+  "static/css/main.21866834.chunk.css.map": "/unit-4-assessment/static/css/main.21866834.chunk.css.map"
 }
